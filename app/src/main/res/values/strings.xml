@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Do you want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, or the other IT fields? Let\'s do it in Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Complete your identity below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Input your identity first</string>
+    <string name="title_login_page">Are you ready to upgrade your skill?</string>
+    <string name="name">Name</string>
+    <string name="copyright">© 2023 Dicoding</string>
+    <string name="message_main_page">Welcome to the Dicoding Story App!</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="navigate_to_story">Check Stories</string>
+    <string name="navigate_to_add_story">Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="desc">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="content_desc">Photo Preview</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Retry</string>
+</resources>
